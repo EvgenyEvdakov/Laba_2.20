@@ -1,2 +1,2 @@
-sqlite> .mode csv
-sqlite> .import city.csv city
+.mode csv
+.import city.csv city
